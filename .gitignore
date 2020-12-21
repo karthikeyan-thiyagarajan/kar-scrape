@@ -1,2 +1,12 @@
 # Project exclude paths
 /target/
+.idea/.*
+.idea/.name
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/sonarlint/
+.idea/uiDesigner.xml
+.idea/vcs.xml
+kar-scrape.iml
+

@@ -1,4 +1,4 @@
-package utils;
+package utils.enums;
 
 /**
  * @author Karthikeyan on 26/11/20
